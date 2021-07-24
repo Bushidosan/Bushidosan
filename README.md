@@ -32,6 +32,3 @@
 <a href="https://github.com/bushidosan/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bushidosan&hide=scss,html&theme=dark&langs_count=3" />
 </a>
-
-## <img src="https://media.giphy.com/media/mSyxm0sHdzM8RH0Ve6/giphy.gif" width="50"> Connect with me!
-<p><a href="https://github.com/bushidosan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/bushidosann" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
