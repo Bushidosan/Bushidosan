@@ -13,10 +13,8 @@
 
 ## <img src="https://media.giphy.com/media/oclyc39jglyIWfrZ1k/giphy.gif" width="50"> What keeps me at the moment busy ?
 
-- Currently I am enrolling in the PWK-200 course, practising for the OSCP exam.
-- Getting a deeper understanding about Python.
+- Enrolled in the PWK-200.
 - Rechearsing CVE's for the DIVD (Dutch Insitute for Vulnerabiltie Disclosure).
-- Playing around with some Checkpoint tools.
 
 ## <img src="https://media.giphy.com/media/hTJ0rxdmO5r3wsLdDE/giphy.gif" width="50" > Certifications
 
