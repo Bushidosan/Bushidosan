@@ -15,6 +15,7 @@
 
 - Enrolled in the PWK-200.
 - Rechearsing CVE's for the DIVD (Dutch Insitute for Vulnerabiltie Disclosure).
+- Pre preperation for the WEB-300
 
 ## <img src="https://media.giphy.com/media/hTJ0rxdmO5r3wsLdDE/giphy.gif" width="50" > Certifications
 
