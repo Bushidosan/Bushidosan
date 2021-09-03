@@ -22,7 +22,8 @@
 - CCNA R&S
 - Comptia Sec+
 - Took the Pentest+ beta exam
-- Enrolled in PWK-200
+- OSCP
+- CKA (12-09 Exam)
 
 ## <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="50"> GitHub Stats
 
