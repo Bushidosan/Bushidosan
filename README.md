@@ -13,7 +13,7 @@
 
 ## <img src="https://media.giphy.com/media/oclyc39jglyIWfrZ1k/giphy.gif" width="50"> What keeps me at the moment busy ?
 
-- Enrolled in the PWK-200.
+- Studing for the CKA Exam
 - Rechearsing CVE's for the DIVD (Dutch Insitute for Vulnerabiltie Disclosure).
 - Pre preperation for the WEB-300
 
