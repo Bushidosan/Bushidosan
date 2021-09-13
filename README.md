@@ -13,7 +13,7 @@
 
 ## <img src="https://media.giphy.com/media/oclyc39jglyIWfrZ1k/giphy.gif" width="50"> What keeps me at the moment busy ?
 
-- Studing for the CKA Exam
+- Studing for the CKS Exam
 - Rechearsing CVE's for the DIVD (Dutch Insitute for Vulnerabiltie Disclosure).
 - Pre preperation for the WEB-300
 
@@ -23,7 +23,7 @@
 - Comptia Sec+
 - Took the Pentest+ beta exam
 - OSCP
-- CKA (12-09 Exam)
+- CKA
 
 ## <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="50"> GitHub Stats
 
