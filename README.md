@@ -1,5 +1,5 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/caVnF2ITqI4fRBmg2C/giphy.gif" width="50" > Bushidosan</h1>
-<h3 align="center">"Trying to be become a hacker for the good"</h3>
+<h3 align="center">"Trying to put my 2 cents into digital security"</h3>
 
 
 
