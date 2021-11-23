@@ -6,24 +6,24 @@
 ## <img src="https://media.giphy.com/media/fns1AVKMOc20U/giphy.gif" width="50"> Who is Bushidosan?
 
 - 👋 Hi, I’m @Bushidosan
-- 👀 I’m 19 years old, with about 2,5 years of working experience as a infrastructure engineer.
+- 👀 I’m 20 years old security engineer!
 - 🌱 I'm active on platform such as THM and HTB.
 - 💞️ If you want to collab, feel free to hit me up!
 - 📫 You can reach me on discord bushidosan#2516
 
 ## <img src="https://media.giphy.com/media/oclyc39jglyIWfrZ1k/giphy.gif" width="50"> What keeps me at the moment busy ?
 
-- Studing for the CKS Exam
 - Rechearsing CVE's for the DIVD (Dutch Insitute for Vulnerabiltie Disclosure).
-- Pre preperation for the WEB-300
+- WEB-300
 
 ## <img src="https://media.giphy.com/media/hTJ0rxdmO5r3wsLdDE/giphy.gif" width="50" > Certifications
 
 - CCNA R&S
 - Comptia Sec+
-- Took the Pentest+ beta exam
+- Comptia Pentest+ (Beta)
 - OSCP
 - CKA
+- CKS
 
 ## <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="50"> GitHub Stats
 
