@@ -6,7 +6,7 @@
 ## <img src="https://media.giphy.com/media/fns1AVKMOc20U/giphy.gif" width="50"> Who is Bushidosan?
 
 - 👋 Hi, I’m @Bushidosan
-- 👀 I’m 20 years old ehtical hacker!
+- 👀 I’m 20 years old ethical hacker!
 - 🌱 I'm active on platform such as THM and HTB.
 - 💞️ If you want to collab, feel free to hit me up!
 - 📫 You can reach me on discord bushidosan#2516
