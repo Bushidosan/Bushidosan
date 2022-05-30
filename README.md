@@ -14,7 +14,7 @@
 ## <img src="https://media.giphy.com/media/oclyc39jglyIWfrZ1k/giphy.gif" width="50"> What keeps me at the moment busy ?
 
 - Rechearsing CVE's for the DIVD (Dutch Insitute for Vulnerabiltie Disclosure).
-- WEB-300
+- CRTO
 
 ## <img src="https://media.giphy.com/media/hTJ0rxdmO5r3wsLdDE/giphy.gif" width="50" > Certifications
 
@@ -24,6 +24,7 @@
 - OSCP
 - CKA
 - CKS
+- OSWE
 
 ## <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="50"> GitHub Stats
 
