@@ -15,6 +15,7 @@
 
 - Rechearsing CVE's for the DIVD (Dutch Insitute for Vulnerabiltie Disclosure).
 - CRTO
+- Studying to become a Red Team Operator
 
 ## <img src="https://media.giphy.com/media/hTJ0rxdmO5r3wsLdDE/giphy.gif" width="50" > Certifications
 
